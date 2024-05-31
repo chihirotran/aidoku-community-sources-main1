@@ -1,0 +1,18 @@
+{
+	"info": {
+		"id": "vi.hentaivn",
+		"lang": "vi",
+		"name": "HentaiVN",
+		"version": 6,
+		"url": "https://hentaivn.zone",
+		"nsfw": 2
+	},
+	"listings": [
+		{
+			"name": "Chương mới"
+		},
+		{
+			"name": "Đã hoàn thành"
+		}
+	]
+}
